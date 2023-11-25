@@ -29,3 +29,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 man function
 help function
 nano fortune.sh
+./fortune.sh
