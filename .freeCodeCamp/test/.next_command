@@ -35,3 +35,5 @@ nano fortune.sh
 help
 help until
 nano fortune.sh
+help until
+./fortune.sh
