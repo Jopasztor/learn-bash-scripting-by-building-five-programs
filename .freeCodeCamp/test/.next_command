@@ -89,3 +89,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 nano fortune.sh
 ./fortune.sh
 nano fortune.sh
+./fortune.sh
