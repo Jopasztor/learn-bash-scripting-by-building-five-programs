@@ -42,3 +42,4 @@ help [[ expression ]]
 [[ "hello" == "world" ]]
 __vsc_prompt_cmd_original
 [[ "hello" =~ "el" ]]
+[[ "hello world" =~ "lo wor" ]]
