@@ -2,3 +2,4 @@ RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again late
 nano fortune.sh
 ./fortune.sh
 nano fortune.sh
+help
