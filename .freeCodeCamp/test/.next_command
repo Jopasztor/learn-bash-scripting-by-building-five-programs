@@ -98,3 +98,6 @@ sed -i '1 i #!/bin/bash' five.sh
 cat five.sh
 cat five.sh
 nano five.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+ls --color=auto -la
